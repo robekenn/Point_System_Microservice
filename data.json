@@ -4,13 +4,13 @@
             "id": "user_001",
             "username": "john_doe",
             "password": "coolpassword",
-            "points": 0
+            "points": 22
         },
         {
             "id": "user_002",
             "username": "jane_doe",
             "password": "coolerpassword",
-            "points": 33
+            "points": 11
         },
         {
             "id": "user_003",
